@@ -1,0 +1,19 @@
+
+.main{
+    background-image: url(./images/background.png);
+    color: #fff;
+    text-align: center;
+}
+
+.main1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+#list{
+    text-align: center;
+    background-color: skyblue; 
+}
+
